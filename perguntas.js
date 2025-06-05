@@ -1,13 +1,13 @@
 criaCartao(
- 'Programação',
- 'O que é Python?',
- 'O python é uma linguagem de programação'
+    'Programação', 
+    'O que é Python?', 
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
- 'Geografia',
- 'Qual é a capital da França?',
- 'a capital da França é Paris'
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
 
 criaCartao(
@@ -16,14 +16,14 @@ criaCartao(
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
-criaCartao(
- 'Programação',
- 'Oque é JavaScript?',
- 'JavanScript é uma linguagem de programação'
+criaCartao (
+    'Programação',
+    'O que é JavaScript?',
+    'JavaScript é uma linguagem de programação'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'como se diz oi em inglês',
-    'oi em inglês é HI (rai)'
+    'Como se diz OI em inglês?',
+    'Oi em inglês é HI (rai)'
 )
